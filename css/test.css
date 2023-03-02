@@ -70,5 +70,5 @@ ul li:hover a{
     color: #ddd;
 }
 ul li:last-child::after{
-    box-shadow: -120px 120px 20px rgba(0, 0, 0, 0.25);
+    box-shadow: -120px 120px 20px rgba(0, 0, 0, 50%);
 }
